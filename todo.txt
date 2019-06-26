@@ -1,0 +1,13 @@
+﻿(A) Corrigir provas de IF968 +IF9682330 Dormir cedo @Casa
+(L) Revisar artigo IST   +Service
+(W) Revisar artigos SBES   +Service
+(B) Revisar artigos SBES Education +Service
+(B) Revisar artigos SBES Insightful Ideas +Service
+(B) Revisar artigos SBLP +Service
+(E) Read "Optimizing energy consumption of GUIs in android apps: A multi-objective approach."
+23062019 0900 (A) Médico de Minha Filha
+01042018 0900 (D) Médico de Minha Filha @IMIP +Saúde
+26041988 2200 Meu aniversário  @Casa +Importante
+15051990 2345699 Aniversário Irmão @
+(A) -23031955 Tentativa de cadastrar nova data
+(F) 29022019 Não deve funcionar 29 de fevereiro
